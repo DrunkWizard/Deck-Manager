@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Drunk Wizard\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Drunk Wizard\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DeckController.1027115627.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Drunk Wizard\Desktop\New folder" t="IncludeFlat">
+      <e p="DeckController" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Card.cs" t="Include" />
+        <e p="Deck.cs" t="Include" />
+        <e p="DeckController.cs" t="Include" />
+        <e p="DeckController.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="DeckController.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Ranks.cs" t="Include" />
+        <e p="Suits.cs" t="Include" />
+      </e>
+      <e p="DeckController.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WinFormsApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="WinFormsApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="WinFormsApp1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

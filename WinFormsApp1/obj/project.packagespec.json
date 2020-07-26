@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Drunk Wizard\\Desktop\\New folder\\WinFormsApp1\\WinFormsApp1.csproj",
+    "projectName": "WinFormsApp1",
+    "projectPath": "C:\\Users\\Drunk Wizard\\Desktop\\New folder\\WinFormsApp1\\WinFormsApp1.csproj",
+    "outputPath": "C:\\Users\\Drunk Wizard\\Desktop\\New folder\\WinFormsApp1\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "C:\\Users\\Drunk Wizard\\Desktop\\New folder\\DeckController\\DeckController.csproj": {
+            "projectPath": "C:\\Users\\Drunk Wizard\\Desktop\\New folder\\DeckController\\DeckController.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

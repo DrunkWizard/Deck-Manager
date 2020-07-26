@@ -1,0 +1,32 @@
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.exe
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.deps.json
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.json
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.dev.json
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.dll
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.pdb
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csprojAssemblyReference.cache
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfoInputs.cache
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfo.cs
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.dll
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.pdb
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.Form1.resources
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.GenerateResource.cache
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\DeckController.dll
+D:\C# sas\DeckController\WinFormsApp1\bin\Debug\netcoreapp3.0\DeckController.pdb
+D:\C# sas\DeckController\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.CopyComplete
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.exe
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.deps.json
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.json
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.dll
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.pdb
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\DeckController.dll
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\bin\Debug\netcoreapp3.0\DeckController.pdb
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.Form1.resources
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.CopyComplete
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.dll
+C:\Users\Drunk Wizard\Desktop\New folder\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.pdb

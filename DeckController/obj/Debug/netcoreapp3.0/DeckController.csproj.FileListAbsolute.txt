@@ -1,0 +1,16 @@
+D:\C# sas\DeckController\DeckController\bin\Debug\netcoreapp3.0\DeckController.deps.json
+D:\C# sas\DeckController\DeckController\bin\Debug\netcoreapp3.0\DeckController.dll
+D:\C# sas\DeckController\DeckController\bin\Debug\netcoreapp3.0\DeckController.pdb
+D:\C# sas\DeckController\DeckController\obj\Debug\netcoreapp3.0\DeckController.csprojAssemblyReference.cache
+D:\C# sas\DeckController\DeckController\obj\Debug\netcoreapp3.0\DeckController.AssemblyInfoInputs.cache
+D:\C# sas\DeckController\DeckController\obj\Debug\netcoreapp3.0\DeckController.AssemblyInfo.cs
+D:\C# sas\DeckController\DeckController\obj\Debug\netcoreapp3.0\DeckController.dll
+D:\C# sas\DeckController\DeckController\obj\Debug\netcoreapp3.0\DeckController.pdb
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\bin\Debug\netcoreapp3.0\DeckController.deps.json
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\bin\Debug\netcoreapp3.0\DeckController.dll
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\bin\Debug\netcoreapp3.0\DeckController.pdb
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\obj\Debug\netcoreapp3.0\DeckController.csprojAssemblyReference.cache
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\obj\Debug\netcoreapp3.0\DeckController.AssemblyInfoInputs.cache
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\obj\Debug\netcoreapp3.0\DeckController.AssemblyInfo.cs
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\obj\Debug\netcoreapp3.0\DeckController.dll
+C:\Users\Drunk Wizard\Desktop\New folder\DeckController\obj\Debug\netcoreapp3.0\DeckController.pdb
