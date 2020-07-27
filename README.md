@@ -18,4 +18,4 @@
 Для реализации данной задачи я создал библиотеку, которая содержит класс DeckManager, предоставляющий интерфейс для работы с колодами, а также некоторые вспомогательные классы. 
 Отладку производил с помощью WinForms приложения.
 ## Видео работы программы
-[![Видео работы программы](https://drive.google.com/file/d/1yYwFBmwASltBUm0N-szrUXpkYwHMdZKr/view?usp=sharing)
+[![Видео работы программы](https://sun9-52.userapi.com/c206828/v206828961/16a46d/2KpNpc5qvfI.jpg)](https://drive.google.com/file/d/1yYwFBmwASltBUm0N-szrUXpkYwHMdZKr/view?usp=sharing)
